@@ -5,5 +5,4 @@ Just six smaller projects implementing and applying data structures, sorting, an
 <<<<<<< HEAD
 ### PA2 ###
 Three small projects focusing on bit manipulation, such as getting, setting and other logical operations
-=======
->>>>>>> 231087309f367a828d2c025fb81bb10d010cdfe1
+
