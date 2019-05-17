@@ -11,4 +11,4 @@ Three smaller projects focusing on bit manipulation/masking, such as getting, se
 Binary bomb lab, a project in where you have to step through assembly code with a debugger to solve several phases.
 
 ### PA4 ###
-An L1 cache simulator implemented with the Least Recently Used algorithm.
+An L1 cache simulator implemented with the Least Recently Used algorithm and optional prefetching. 
